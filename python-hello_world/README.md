@@ -3,4 +3,4 @@
 # Task2:print float
 # Task 3:print string
 #task 4:play with string
-
+# task 5:Copy-Cut-Paste
