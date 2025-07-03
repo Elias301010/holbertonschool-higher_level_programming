@@ -4,3 +4,5 @@
 # Task 3:print string
 #task 4:play with string
 # task 5:Copy-Cut-Paste
+#Task 8:Create a new sentance
+
